@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/naesa-images/static/css/main.6436289d.css",
-    "main.js": "/naesa-images/static/js/main.6a8f338d.js",
-    "static/js/787.f2f60204.chunk.js": "/naesa-images/static/js/787.f2f60204.chunk.js",
-    "index.html": "/naesa-images/index.html",
-    "main.6436289d.css.map": "/naesa-images/static/css/main.6436289d.css.map",
-    "main.6a8f338d.js.map": "/naesa-images/static/js/main.6a8f338d.js.map",
-    "787.f2f60204.chunk.js.map": "/naesa-images/static/js/787.f2f60204.chunk.js.map"
+    "main.css": "/nasa-images/static/css/main.6436289d.css",
+    "main.js": "/nasa-images/static/js/main.84fe0f32.js",
+    "static/js/787.f2f60204.chunk.js": "/nasa-images/static/js/787.f2f60204.chunk.js",
+    "index.html": "/nasa-images/index.html",
+    "main.6436289d.css.map": "/nasa-images/static/css/main.6436289d.css.map",
+    "main.84fe0f32.js.map": "/nasa-images/static/js/main.84fe0f32.js.map",
+    "787.f2f60204.chunk.js.map": "/nasa-images/static/js/787.f2f60204.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6436289d.css",
-    "static/js/main.6a8f338d.js"
+    "static/js/main.84fe0f32.js"
   ]
 }
