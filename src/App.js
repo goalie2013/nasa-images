@@ -65,11 +65,13 @@ function App() {
       ) : (
         page.map((item) => <SpaceImages data={item} />)
       )} */}
-      <Pagination
-        items={dataArr}
-        pageSize={pageSize}
-        onPageChange={handlePageChange}
-      ></Pagination>
+      {isLoading ? null : (
+        <Pagination
+          items={dataArr}
+          pageSize={pageSize}
+          onPageChange={handlePageChange}
+        ></Pagination>
+      )}
     </div>
   );
 }
